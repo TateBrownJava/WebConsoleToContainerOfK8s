@@ -1,0 +1,2 @@
+# WebConsoleToContainerOfK8s
+一个基于K8s/client-go的web命令行管理系统，根据指定kubeconfig文件与容器资源位置进入web直接与集群内容器进行交互
